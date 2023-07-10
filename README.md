@@ -14,3 +14,7 @@
 ### 2. Menu
 #### > activity_main.xml
 ![image](https://github.com/komarcrew/UAS-Pemprograman-Mobile-Komarudin-DatabaseAPIProject/assets/101499377/105ab0ba-37e3-46dd-ace4-4b9359214cf1)
+#### > activity_main_action.xml
+![image](https://github.com/komarcrew/UAS-Pemprograman-Mobile-Komarudin-DatabaseAPIProject/assets/101499377/57a8c67c-c0f3-425c-a91f-3b91a94d7aea)
+#### > form_handphone.xml
+![image](https://github.com/komarcrew/UAS-Pemprograman-Mobile-Komarudin-DatabaseAPIProject/assets/101499377/7cbb912c-6e8c-4aa2-9fff-6c92814024f2)
